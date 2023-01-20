@@ -1,0 +1,20 @@
+The first step to learn Programming language is to begin what we should use to code in Python.
+Well, there many environments to code for programmers today. In Python, you can use the following environments:
+- Pycharm. download: https://www.jetbrains.com/pycharm/download/#section=windows 
+- google colab: https://colab.research.google.com/ 
+- anaconda: https://www.anaconda.com/products/distribution 
+- cpython: https://github.com/python/cpython 
+- ironpython: https://ironpython.net/ 
+- pypy: https://www.pypy.org/ 
+- jython: https://www.jython.org/ 
+
+And if you google, you can find the other kind of coding environments on Python.
+If you are starting to learn programming language and Python is your first language that you are learning then I will suggest you to start learning from C or C++ language.
+Then why?
+Python language has many benefits:
+- user-friendly: easy to learn and to code
+- involves many spheres: backend(django, flask, etc), Telegram, API, Data Science, Machine Learning, AI, etc
+- high level language (one of the most used language)
+However, as this language is easy to learn, you can understand easily to the syntax of this programming language and Python is indicated to use the methods and functions.
+Therefore, if you want to learn deeply about Data Structures and Algorithms, then start learning from C and C++ basics.
+It is more helpful to understand Algorithms deeply.
